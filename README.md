@@ -50,16 +50,6 @@
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-<h2 align="left">Quick Repo Access</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalashar25&repo=CoreJava&show_owner=true)](https://github.com/kunalashar25/CoreJava)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalashar25&repo=learn-javascript&show_owner=true)](https://github.com/kunalashar25/learn-javascript)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalashar25&repo=learn-typescript&show_owner=true)](https://github.com/kunalashar25/learn-typescript)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalashar25&repo=learn-cypress&show_owner=true)](https://github.com/kunalashar25/learn-cypress)
-
 <h2 align="left">Overall Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=kunalashar25&show_icons=true&count_private=true&include_all_commits=true)
