@@ -21,7 +21,6 @@
 
 <br>
 <p align="center"> <a href="https://twitter.com/kunalashar25" target="blank"><img src="https://img.shields.io/twitter/follow/kunalashar25?logo=twitter&style=for-the-badge" alt="kunalashar25" /></a> </p>
-<br>
 
 ---
 
