@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/kunalashar25/)
 
-- 📹 Check my community Talks and Training videos [here](https://www.youtube.com/playlist?list=PL04X0VDyz1kNi-PcQ9vuOIpAvVnZtZbL2)
+- 🎙️ Check my community Talks and Training videos [here](https://www.youtube.com/playlist?list=PL04X0VDyz1kNi-PcQ9vuOIpAvVnZtZbL2)
 
 <p align="center"> <a href="https://twitter.com/kunalashar25" target="blank"><img src="https://img.shields.io/twitter/follow/kunalashar25?logo=twitter&style=for-the-badge" alt="kunalashar25" /></a> </p>
 
