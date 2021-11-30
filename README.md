@@ -54,7 +54,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kunalashar25&show_icons=true&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalashar25&langs_count=5&hide=html,css&layout=compact&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalashar25&langs_count=5&hide=html,css&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/kunalashar25"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kunalashar25" /></a></p>
